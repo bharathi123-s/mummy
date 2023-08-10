@@ -1,1 +1,4 @@
 # mummy
+qwertyuiop
+asdfghjkl
+zxcvbnm,.
